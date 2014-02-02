@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-EmptyProjectNavigation",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwnerDrawnElement", "OwnerDrawnElement\OwnerDrawnElement.csproj", "{CBEB093A-5615-4FA9-9E78-66D4BA9809E5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIViewElement", "UIViewElement\UIViewElement.csproj", "{D73200F6-D83D-4159-9AB5-97BCAD3AB964}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Ad-Hoc|iPhone = Ad-Hoc|iPhone
@@ -77,9 +79,25 @@ Global
 		{CBEB093A-5615-4FA9-9E78-66D4BA9809E5}.Release|iPhone.Build.0 = Release|iPhone
 		{CBEB093A-5615-4FA9-9E78-66D4BA9809E5}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
 		{CBEB093A-5615-4FA9-9E78-66D4BA9809E5}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{D73200F6-D83D-4159-9AB5-97BCAD3AB964}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{D73200F6-D83D-4159-9AB5-97BCAD3AB964}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{D73200F6-D83D-4159-9AB5-97BCAD3AB964}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Ad-Hoc|iPhone
+		{D73200F6-D83D-4159-9AB5-97BCAD3AB964}.Ad-Hoc|iPhoneSimulator.Build.0 = Ad-Hoc|iPhone
+		{D73200F6-D83D-4159-9AB5-97BCAD3AB964}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{D73200F6-D83D-4159-9AB5-97BCAD3AB964}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{D73200F6-D83D-4159-9AB5-97BCAD3AB964}.AppStore|iPhoneSimulator.ActiveCfg = Ad-Hoc|iPhone
+		{D73200F6-D83D-4159-9AB5-97BCAD3AB964}.AppStore|iPhoneSimulator.Build.0 = Ad-Hoc|iPhone
+		{D73200F6-D83D-4159-9AB5-97BCAD3AB964}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{D73200F6-D83D-4159-9AB5-97BCAD3AB964}.Debug|iPhone.Build.0 = Debug|iPhone
+		{D73200F6-D83D-4159-9AB5-97BCAD3AB964}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{D73200F6-D83D-4159-9AB5-97BCAD3AB964}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{D73200F6-D83D-4159-9AB5-97BCAD3AB964}.Release|iPhone.ActiveCfg = Release|iPhone
+		{D73200F6-D83D-4159-9AB5-97BCAD3AB964}.Release|iPhone.Build.0 = Release|iPhone
+		{D73200F6-D83D-4159-9AB5-97BCAD3AB964}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{D73200F6-D83D-4159-9AB5-97BCAD3AB964}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = OwnerDrawnElement\OwnerDrawnElement.csproj
+		StartupItem = UIViewElement\UIViewElement.csproj
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

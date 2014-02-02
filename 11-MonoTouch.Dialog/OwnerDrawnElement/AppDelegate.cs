@@ -47,16 +47,7 @@ namespace OwnerDrawnElement
 					{
 						new MonoTouch.Dialog.Section ("Section 1")
 						{
-							new MonoTouch.Dialog.RootElement 
-							(
-								"RootElement 2"
-							)
-							{
-								new MonoTouch.Dialog.Section () 
-								{
-									new CustomOwnerDrawnElement("CustomOwnerDrawnElement")
-								}	
-							} 
+							new CustomOwnerDrawnElement("CustomOwnerDrawnElement")
 						}
 					}
 				);
