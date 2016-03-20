@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutletsAndActuins", "OutletsAndActuins\OutletsAndActuins.csproj", "{35237F1C-087A-4E19-8985-1B22FF6304FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		Ad-Hoc|iPhoneSimulator = Ad-Hoc|iPhoneSimulator
+		AppStore|iPhone = AppStore|iPhone
+		AppStore|iPhoneSimulator = AppStore|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35237F1C-087A-4E19-8985-1B22FF6304FF}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{35237F1C-087A-4E19-8985-1B22FF6304FF}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{35237F1C-087A-4E19-8985-1B22FF6304FF}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Ad-Hoc|iPhoneSimulator
+		{35237F1C-087A-4E19-8985-1B22FF6304FF}.Ad-Hoc|iPhoneSimulator.Build.0 = Ad-Hoc|iPhoneSimulator
+		{35237F1C-087A-4E19-8985-1B22FF6304FF}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{35237F1C-087A-4E19-8985-1B22FF6304FF}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{35237F1C-087A-4E19-8985-1B22FF6304FF}.AppStore|iPhoneSimulator.ActiveCfg = AppStore|iPhoneSimulator
+		{35237F1C-087A-4E19-8985-1B22FF6304FF}.AppStore|iPhoneSimulator.Build.0 = AppStore|iPhoneSimulator
+		{35237F1C-087A-4E19-8985-1B22FF6304FF}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{35237F1C-087A-4E19-8985-1B22FF6304FF}.Debug|iPhone.Build.0 = Debug|iPhone
+		{35237F1C-087A-4E19-8985-1B22FF6304FF}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{35237F1C-087A-4E19-8985-1B22FF6304FF}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{35237F1C-087A-4E19-8985-1B22FF6304FF}.Release|iPhone.ActiveCfg = Release|iPhone
+		{35237F1C-087A-4E19-8985-1B22FF6304FF}.Release|iPhone.Build.0 = Release|iPhone
+		{35237F1C-087A-4E19-8985-1B22FF6304FF}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{35237F1C-087A-4E19-8985-1B22FF6304FF}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = OutletsAndActuins\OutletsAndActuins.csproj
+	EndGlobalSection
+EndGlobal
