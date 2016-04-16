@@ -90,6 +90,7 @@
     <InterfaceDefinition Include="Main.storyboard" />
     <InterfaceDefinition Include="StoryboardEmpty.storyboard" />
     <InterfaceDefinition Include="StoryboardWithControllers.storyboard" />
+    <InterfaceDefinition Include="ViewControllerXib.xib" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Info.plist" />
@@ -101,6 +102,10 @@
     <Compile Include="ViewController.cs" />
     <Compile Include="ViewController.designer.cs">
       <DependentUpon>ViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewControllerXib.cs" />
+    <Compile Include="ViewControllerXib.designer.cs">
+      <DependentUpon>ViewControllerXib.cs</DependentUpon>
     </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
